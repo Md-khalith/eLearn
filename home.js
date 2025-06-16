@@ -280,6 +280,22 @@ const data = {
       thumbnailUrl: "thumbnails/dsa6.avif",
       ratingValue: 4.7,
       reviews: "805,123"
+    },
+    {
+      title: "Data Structures - Full Courses Using C and C++",
+      description: "Master DSA quickly with this comprehensive course.",
+      videoUrl: "https://youtu.be/B31LgI4Y4DQ?si=7gZo0E1l5kHs46ar",
+      thumbnailUrl: "thumbnails/dsa7.avif",
+      ratingValue: 4.6,
+      reviews: "405,523"
+    },
+    {
+      title: "Data Structures - Computer Science Course for Beginners",
+      description: "Learn all about Data Structures in this lecture-style course",
+      videoUrl: "https://youtu.be/zg9ih6SVACc?si=N7Gbp__xTiFEXJFB",
+      thumbnailUrl: "thumbnails/dsa8.avif",
+      ratingValue: 4.7,
+      reviews: "465,123"
     }
   ],
   programmingLanguages: [
