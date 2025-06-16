@@ -195,3 +195,9 @@ body {
 .reset-storage:hover{
   cursor: pointer;
 }
+footer {
+  padding: 1rem;
+  text-align: center;
+  background: #222;
+  color: #fff;
+}
